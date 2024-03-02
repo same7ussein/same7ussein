@@ -2,9 +2,9 @@
   Welcome to Sameh Hussein's profile👋
 </h2>
 
-<div style="display: flex; justify-content: center;">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FFBB35E4&center=true&vCenter=true&random=false&width=435&lines=FrontEnd+Developer+;Angular)](https://git.io/typing-svg)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FFBB35E4&center=true&vCenter=true&random=false&width=435&lines=FrontEnd+Developer+;Angular" alt="Typing SVG">
+</p>
 
 
 
