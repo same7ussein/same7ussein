@@ -1,9 +1,8 @@
 <h2 align="center">
   Welcome to Sameh Hussein's profile👋
 </h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=<span style='color:red'>Frontend%20developer</span>;%20<span style='color:red'>Angular</span>&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=FFBB35E4&center=true&vCenter=true&random=false&width=435&lines=FrontEnd+Developer+;Angular)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
@@ -19,11 +18,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=same7ussein&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=same7ussein&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=same7ussein&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=same7ussein&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=same7ussein&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
